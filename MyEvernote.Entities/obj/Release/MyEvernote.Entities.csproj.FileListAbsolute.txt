@@ -1,0 +1,13 @@
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Release\MyEvernote.Entities.dll.config
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Release\MyEvernote.Entities.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Release\MyEvernote.Entities.pdb
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Release\EntityFramework.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Release\EntityFramework.xml
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\obj\Release\MyEvernote.Entities.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\obj\Release\MyEvernote.Entities.pdb
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\obj\Release\MyEvernote.Entities.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Common\bin\Release\MyEvernote.Common.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Common\bin\Release\MyEvernote.Common.pdb
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Common\obj\Release\MyEvernote.Common.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\MyEvernoteSolution\MyEvernote.Common\obj\Release\MyEvernote.Common.pdb
